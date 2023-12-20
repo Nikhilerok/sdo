@@ -4,6 +4,10 @@
         <apexClass>FirstApexCls</apexClass>
         <enabled>true</enabled>
     </classAccesses>
+    <classAccesses>
+        <apexClass>devopsClass</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
     <custom>false</custom>
     <layoutAssignments>
         <layout>first_object__c-first object Layout</layout>
